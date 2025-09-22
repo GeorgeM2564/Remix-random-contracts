@@ -1,9 +1,10 @@
-pragma solidity ^0.8.30;
-// SPDX-License-Identifier: UNLINCENSED
+pragma solidity >=0.5.0;
 
 
 
 contract testing {
-    uint a = 3;
-    print a;
+    uint a;
     }
+function bigbootylatina(uint memory _a){
+    uint a = _a;
+}
